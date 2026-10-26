@@ -2,7 +2,7 @@
 
 **TopEmbLink** is a free embroidery assistant design and transfer software developed by Shenzhen Topwisdom Technology Co., Ltd. Designed for embroidery professionals and enthusiasts alike, TopEmbLink combines text embroidery, pattern design, format conversion, and wireless machine transfer into a single, easy-to-use tool — living up to its motto: *"One Link, Infinite Stitches."*
 
-For more information and downloads, please visit the official website: **www.topemblink.cn**
+For more information and downloads, please visit the official website: **[www.topemblink.cn](http://www.topemblink.cn/)**
 
 ## Key Features
 
